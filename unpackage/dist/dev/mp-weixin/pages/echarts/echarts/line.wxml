@@ -1,0 +1,1 @@
+<view class="content data-v-c6de12ae"><view class="pie data-v-c6de12ae"><mpvue-echarts vue-id="1" canvasId="line" data-ref="lineChart" data-event-opts="{{[['^onInit',[['onInit']]]]}}" bind:onInit="__e" class="data-v-c6de12ae vue-ref" bind:__l="__l"></mpvue-echarts></view></view>

@@ -1,0 +1,27 @@
+
+.echarts-list.data-v-503e36c2{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	    -ms-flex-pack: justify;
+	        justify-content: space-between;
+	-webkit-flex-wrap: wrap;
+	    -ms-flex-wrap: wrap;
+	        flex-wrap: wrap;
+	margin-top: 20rpx;
+}
+.echarts.data-v-503e36c2{
+	margin: 30rpx 50rpx;
+	display: block;
+	width: 35%;
+	height: 100rpx;
+	background-color: #007AFF;
+	text-align: center;
+	line-height: 100rpx;
+	font-size: 50rpx;
+}
+
+
